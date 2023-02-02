@@ -10,10 +10,12 @@
 
 # preview 
 #
-**App :** 
+#**App :**
+
 ![Screenshot 2023-02-02 171153](https://user-images.githubusercontent.com/79978308/216347935-b42fd76d-46f5-485b-a88a-c0e9f0b3893f.jpg)
 
-** QR CODE : **
+# ** QR CODE : **
+
 ![MUSICITUNS LOGO](https://user-images.githubusercontent.com/79978308/216349755-88c634e4-6a5a-48ca-8d42-3ff0ec87074c.jpg)
 
 
